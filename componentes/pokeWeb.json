@@ -1,0 +1,52 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Mark",
+      "apellido": "Zucker",
+      "edad": "31",
+      "correo": "mark@gmail.com",
+      "clave": "xxx"
+    },
+    {
+      "pokemones": [
+        1199
+      ],
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nombre": "Doctor",
+      "apellido": "Octopus",
+      "edad": "45",
+      "correo": "octopus@gmail.com",
+      "clave": "xxxoctopus",
+      "idsPoke": [
+        3,
+        6,
+        7,
+        11,
+        44
+      ],
+      "pokemones": [
+        55
+      ]
+    }
+  ],
+  "administradores": [
+    {
+      "id": 1,
+      "nombre": "walt",
+      "edad": "27",
+      "correo": "we@gmail.com",
+      "clave": ""
+    },
+    {
+      "id": 2,
+      "nombre": "Dor",
+      "edad": "18",
+      "correo": "we@gmail.com",
+      "clave": ""
+    }
+  ]
+}
